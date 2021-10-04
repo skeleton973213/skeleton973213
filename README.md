@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skeleton973213
 - 👀 I’m interested in changing the world
-- 🌱 I’m currently learning Robotics and Artificial Intelligence
+- 🌱 I’m currently studying Robotics and Artificial Intelligence Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
